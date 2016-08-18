@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 创建默认的别名资源值 -->
+    <item name="activity_masterdetail" type="layout">@layout/activity_twopane</item>
+</resources>
